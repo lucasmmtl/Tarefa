@@ -1,4 +1,4 @@
-public class meunome2 {
+public class Meunome2 {
     public static void main(String[] args) {
         String nome = "Ricardo";
         int x = 10;
