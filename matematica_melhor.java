@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class matematica_melhor {
+public class Matematica_melhor {
     public static void main(String [] args){    
         String nome = JOptionPane.showInputDialog("Digite seu nome:");
 
