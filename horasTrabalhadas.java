@@ -1,4 +1,4 @@
-public class horasTrabalhadas {
+public class HorasTrabalhadas {
     public static void main(String[] args) {
         int horasTrabalhadas = 160;
         double salarioPorHora = 25.5;
