@@ -1,4 +1,4 @@
-public class gol {
+public class Gol {
     public static void main(String[] args) {
         int gols = 2;
         int assistencias = 1;
