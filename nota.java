@@ -1,4 +1,4 @@
-public class nota {
+public class Nota {
     public static void main(String[] args) {
         String nome = "Junior";
         double nota1 = 9.5;
