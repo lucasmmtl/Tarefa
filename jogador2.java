@@ -1,4 +1,4 @@
-public class jogador2 {
+public class Jogador2 {
     public static void main(String[] args) {
         int pontosJogador = 50;
         int pontosAdversario = 75;
