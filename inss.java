@@ -1,4 +1,4 @@
-public class inss {
+public class Inss {
     public static void main(String[] args) {
         String nomeFuncionario = "Maria";
         double salarioBase = 2500.0;
